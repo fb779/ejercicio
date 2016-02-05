@@ -1,6 +1,10 @@
 hola es mi primer archivo
 una linea mas que agregar
 
+---- cambios en local
 este es un cambio en local jajajajaj
 un cambio mas en local jejejeje
 
+---- cambios en linea
+esta es una tercera linea que hice para verificar
+una lina de mas jejejeje
